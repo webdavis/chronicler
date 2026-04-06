@@ -1,0 +1,8 @@
+# macOS Finder folder config.
+.DS_Store
+
+# Ignore Neovim/Vim swap files.
+*.sw*
+
+# Don't track project-local node dependencies (created via `bun install`).
+node_modules

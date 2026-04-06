@@ -1,0 +1,6 @@
+{
+  "outputDir": "~/.openclaw/hooks/chronicler/logs",
+  "agents": {
+    "main": "main"
+  }
+}

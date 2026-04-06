@@ -1,0 +1,7 @@
+{
+  "openclaw": {
+    "emoji": "📜",
+    "events": ["message:received", "message:sent"],
+    "description": "Logs all conversations to daily chronicle files."
+  }
+}
